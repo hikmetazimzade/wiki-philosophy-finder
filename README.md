@@ -22,7 +22,7 @@ This Python project is a web scraper that explores the famous "Wikipedia Philoso
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/<your-username>/wiki-philosophy-finder.git
+    git clone https://github.com/hikmetazimzade/wiki-philosophy-finder.git
     ```
 
 2. Navigate to the project folder:
